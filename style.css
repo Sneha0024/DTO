@@ -275,6 +275,9 @@ form.sign-in-form {
     min-height: 800px;
     height: 100vh;
   }
+  .title {
+  font-size: 1.7rem;
+  }
   .signin-signup {
     width: 100%;
     top: 95%;
@@ -377,7 +380,9 @@ form.sign-in-form {
   form {
     padding: 0 1.5rem;
   }
-
+.title {
+  font-size: 1.45rem;
+  }
   .image {
     display: none;
   }
